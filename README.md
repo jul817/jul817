@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on personal projects
+
 <!--
 **jul817/jul817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
