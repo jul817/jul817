@@ -1,7 +1,9 @@
+![This is an image](https://github.com/jul817/jul817/blob/main/bcg2.png)
+
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on personal projects on Ruby on Rails (with HTML, CSS, JS)
+- 🔭 I’m currently working on personal Rails projects
 
 <!--
 **jul817/jul817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
